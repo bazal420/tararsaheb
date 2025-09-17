@@ -119,7 +119,6 @@
     {
       "id": "team-member-2",
       "description": "Portrait of a confident professional.",
-<<<<<<< HEAD
       "imageUrl": "/images/Zumran.webp",
 =======
       "imageUrl": "https://picsum.photos/seed/team2/200/200",
@@ -179,11 +178,7 @@
     {
       "id": "team-member-8",
       "description": "Portrait of a site supervisor.",
-<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
-=======
-      "imageUrl": "https://picsum.photos/seed/team8/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "site supervisor"
     },
     {
