@@ -54,7 +54,6 @@ export const Footer = () => {
                   info@tararsaheb.ae
                 </a>
               </p>
-<<<<<<< HEAD
               <p>
                 <a href="tel:+97143334316" className="hover:text-foreground">
                   +971 4 333 4316
@@ -75,12 +74,6 @@ export const Footer = () => {
                   +971 52 753 0607
                 </a>
               </p>
-=======
-              <p>+971 4 333 4316</p>
-              <p>+971 55 944 8111</p>
-              <p>+971 50 674 6111</p>
-              <p>+971 52 753 0607</p>
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
             </address>
           </div>
         </div>
