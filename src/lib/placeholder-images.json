@@ -4,25 +4,25 @@
     {
       "id": "hero-background",
       "description": "A wide shot of a newly paved asphalt road stretching into the distance under a clear sky.",
-      "imageUrl": "https://picsum.photos/seed/hero-bg/1920/1080",
+      "imageUrl": "/images/Road.webp",
       "imageHint": "road construction"
     },
     {
       "id": "history-image",
       "description": "A group of diverse business people giving a thumbs up.",
-      "imageUrl": "https://i.imgur.com/gtsyLhN.jpeg",
+      "imageUrl": "/images/Team Success.jpg",
       "imageHint": "team success"
     },
     {
       "id": "how-we-work-image",
       "description": "A team of engineers and construction workers collaborating on a blueprint at a construction site, symbolizing teamwork and precision.",
-      "imageUrl": "https://picsum.photos/seed/how-we-work/800/600",
+      "imageUrl": "/images/Eng-Blueprint.jpg",
       "imageHint": "engineers blueprint"
     },
     {
       "id": "tagline-background",
       "description": "An abstract architectural design image symbolizing innovation.",
-      "imageUrl": "https://picsum.photos/seed/tagline-bg/1920/400",
+      "imageUrl": "images/Architectural.jpeg",
       "imageHint": "architectural design"
     },
     { "id": "project-1", "description": "Interlock reinstatement", "imageUrl": "https://picsum.photos/seed/proj1/600/400", "imageHint": "interlock paving" },
@@ -93,92 +93,298 @@
     {
       "id": "team-member-1",
       "description": "Portrait of a smiling male construction manager with a hard hat.",
-      "imageUrl": "https://picsum.photos/seed/team1/200/200",
+      "imageUrl": "/images/Zia Ullah.webp",
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-2",
       "description": "Portrait of a confident professional.",
-      "imageUrl": "https://picsum.photos/seed/team2/200/200",
+      "imageUrl": "/images/Zumran.webp",
       "imageHint": "professional portrait"
     },
     {
       "id": "team-member-3",
       "description": "Portrait of an experienced project lead.",
-      "imageUrl": "https://picsum.photos/seed/team3/200/200",
+      "imageUrl": "/images/Mirza.webp",
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-4",
       "description": "Portrait of a project engineer.",
-      "imageUrl": "https://picsum.photos/seed/team4/200/200",
+      "imageUrl": "/images/male icon.png",
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-5",
       "description": "Portrait of a female engineer.",
-      "imageUrl": "https://picsum.photos/seed/team5/200/200",
+      "imageUrl": "/images/Cathy-Alarcon.webp",
       "imageHint": "female engineer"
     },
     {
       "id": "team-member-6",
       "description": "Portrait of a site manager.",
-      "imageUrl": "https://picsum.photos/seed/team6/200/200",
+      "imageUrl": "/images/Bazal.webp",
       "imageHint": "site manager"
     },
     {
       "id": "team-member-7",
       "description": "Portrait of an HSE engineer.",
-      "imageUrl": "https://picsum.photos/seed/team7/200/200",
+      "imageUrl": "/images/male icon.png",
       "imageHint": "HSE engineer"
     },
     {
       "id": "team-member-8",
       "description": "Portrait of a site supervisor.",
-      "imageUrl": "https://picsum.photos/seed/team8/200/200",
+      "imageUrl": "/images/male icon.png",
       "imageHint": "site supervisor"
     },
     {
       "id": "team-member-9",
       "description": "Portrait of an equipment operator.",
-      "imageUrl": "https://picsum.photos/seed/team9/200/200",
+      "imageUrl": "/images/Azhar.webp",
       "imageHint": "equipment operator"
     },
-    {
-      "id": "client-logo-1",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client1/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-2",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client2/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-3",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client3/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-4",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client4/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-5",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client5/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-6",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client6/150/75",
-      "imageHint": "company logo"
-    }
+    [
+      {
+        "id": "client-logo-1",
+        "description": "Client logo 1",
+        "imageUrl": "/images/Client(1).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-2",
+        "description": "Client logo 2",
+        "imageUrl": "/images/Client(2).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-3",
+        "description": "Client logo 3",
+        "imageUrl": "/images/Client(3).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-4",
+        "description": "Client logo 4",
+        "imageUrl": "/images/Client(4).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-5",
+        "description": "Client logo 5",
+        "imageUrl": "/images/Client(5).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-6",
+        "description": "Client logo 6",
+        "imageUrl": "/images/Client(6).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-7",
+        "description": "Client logo 7",
+        "imageUrl": "/images/Client(7).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-8",
+        "description": "Client logo 8",
+        "imageUrl": "/images/Client(8).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-9",
+        "description": "Client logo 9",
+        "imageUrl": "/images/Client(9).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-10",
+        "description": "Client logo 10",
+        "imageUrl": "/images/Client(10).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-11",
+        "description": "Client logo 11",
+        "imageUrl": "/images/Client(11).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-12",
+        "description": "Client logo 12",
+        "imageUrl": "/images/Client(12).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-13",
+        "description": "Client logo 13",
+        "imageUrl": "/images/Client(13).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-14",
+        "description": "Client logo 14",
+        "imageUrl": "/images/Client(14).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-15",
+        "description": "Client logo 15",
+        "imageUrl": "/images/Client(15).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-16",
+        "description": "Client logo 16",
+        "imageUrl": "/images/Client(16).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-17",
+        "description": "Client logo 17",
+        "imageUrl": "/images/Client(17).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-18",
+        "description": "Client logo 18",
+        "imageUrl": "/images/Client(18).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-19",
+        "description": "Client logo 19",
+        "imageUrl": "/images/Client(19).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-20",
+        "description": "Client logo 20",
+        "imageUrl": "/images/Client(20).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-21",
+        "description": "Client logo 21",
+        "imageUrl": "/images/Client(21).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-22",
+        "description": "Client logo 22",
+        "imageUrl": "/images/Client(22).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-23",
+        "description": "Client logo 23",
+        "imageUrl": "/images/Client(23).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-24",
+        "description": "Client logo 24",
+        "imageUrl": "/images/Client(24).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-25",
+        "description": "Client logo 25",
+        "imageUrl": "/images/Client(25).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-26",
+        "description": "Client logo 26",
+        "imageUrl": "/images/Client(26).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-27",
+        "description": "Client logo 27",
+        "imageUrl": "/images/Client(27).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-28",
+        "description": "Client logo 28",
+        "imageUrl": "/images/Client(28).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-29",
+        "description": "Client logo 29",
+        "imageUrl": "/images/Client(29).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-30",
+        "description": "Client logo 30",
+        "imageUrl": "/images/Client(30).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-31",
+        "description": "Client logo 31",
+        "imageUrl": "/images/Client(31).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-32",
+        "description": "Client logo 32",
+        "imageUrl": "/images/Client(32).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-33",
+        "description": "Client logo 33",
+        "imageUrl": "/images/Client(33).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-34",
+        "description": "Client logo 34",
+        "imageUrl": "/images/Client(34).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-35",
+        "description": "Client logo 35",
+        "imageUrl": "/images/Client(35).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-36",
+        "description": "Client logo 36",
+        "imageUrl": "/images/Client(36).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-37",
+        "description": "Client logo 37",
+        "imageUrl": "/images/Client(37).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-38",
+        "description": "Client logo 38",
+        "imageUrl": "/images/Client(38).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-39",
+        "description": "Client logo 39",
+        "imageUrl": "/images/Client(39).jpg",
+        "imageHint": "company logo"
+      },
+      {
+        "id": "client-logo-40",
+        "description": "Client logo 40",
+        "imageUrl": "/images/Client(40).jpg",
+        "imageHint": "company logo"
+      }
+]
   ]
 }

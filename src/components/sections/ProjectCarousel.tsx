@@ -21,10 +21,15 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 type ProjectCarouselProps = {
   project: Project;
   children: React.ReactNode;
+  disabled?: boolean;
 };
 
-export function ProjectCarousel({ project, children }: ProjectCarouselProps) {
+export function ProjectCarousel({ project, children, disabled = false }: ProjectCarouselProps) {
   const images = project.imageIds.map(id => PlaceHolderImages.find(p => p.id === id)).filter(Boolean);
+
+  if (disabled) {
+    return <>{children}</>;
+  }
 
   return (
     <Dialog>
