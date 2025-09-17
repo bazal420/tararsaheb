@@ -21,7 +21,6 @@ import { PlaceHolderImages } from '@/lib/placeholder-images';
 type ProjectCarouselProps = {
   project: Project;
   children: React.ReactNode;
-<<<<<<< HEAD
   disabled?: boolean;
 };
 
@@ -32,13 +31,6 @@ export function ProjectCarousel({ project, children, disabled = false }: Project
     return <>{children}</>;
   }
 
-=======
-};
-
-export function ProjectCarousel({ project, children }: ProjectCarouselProps) {
-  const images = project.imageIds.map(id => PlaceHolderImages.find(p => p.id === id)).filter(Boolean);
-
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
   return (
     <Dialog>
       <DialogTrigger asChild>{children}</DialogTrigger>
