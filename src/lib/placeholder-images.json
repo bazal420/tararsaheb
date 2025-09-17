@@ -4,25 +4,41 @@
     {
       "id": "hero-background",
       "description": "A wide shot of a newly paved asphalt road stretching into the distance under a clear sky.",
+<<<<<<< HEAD
       "imageUrl": "/images/Road.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/hero-bg/1920/1080",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "road construction"
     },
     {
       "id": "history-image",
       "description": "A group of diverse business people giving a thumbs up.",
+<<<<<<< HEAD
       "imageUrl": "/images/Team Success.jpg",
+=======
+      "imageUrl": "https://i.imgur.com/gtsyLhN.jpeg",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "team success"
     },
     {
       "id": "how-we-work-image",
       "description": "A team of engineers and construction workers collaborating on a blueprint at a construction site, symbolizing teamwork and precision.",
+<<<<<<< HEAD
       "imageUrl": "/images/Eng-Blueprint.jpg",
+=======
+      "imageUrl": "https://picsum.photos/seed/how-we-work/800/600",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "engineers blueprint"
     },
     {
       "id": "tagline-background",
       "description": "An abstract architectural design image symbolizing innovation.",
+<<<<<<< HEAD
       "imageUrl": "images/Architectural.jpeg",
+=======
+      "imageUrl": "https://picsum.photos/seed/tagline-bg/1920/400",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "architectural design"
     },
     { "id": "project-1", "description": "Interlock reinstatement", "imageUrl": "https://picsum.photos/seed/proj1/600/400", "imageHint": "interlock paving" },
@@ -93,54 +109,87 @@
     {
       "id": "team-member-1",
       "description": "Portrait of a smiling male construction manager with a hard hat.",
+<<<<<<< HEAD
       "imageUrl": "/images/Zia Ullah.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/team1/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-2",
       "description": "Portrait of a confident professional.",
+<<<<<<< HEAD
       "imageUrl": "/images/Zumran.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/team2/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "professional portrait"
     },
     {
       "id": "team-member-3",
       "description": "Portrait of an experienced project lead.",
+<<<<<<< HEAD
       "imageUrl": "/images/Mirza.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/team3/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-4",
       "description": "Portrait of a project engineer.",
+<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
+=======
+      "imageUrl": "https://picsum.photos/seed/team4/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-5",
       "description": "Portrait of a female engineer.",
+<<<<<<< HEAD
       "imageUrl": "/images/Cathy-Alarcon.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/team5/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "female engineer"
     },
     {
       "id": "team-member-6",
       "description": "Portrait of a site manager.",
+<<<<<<< HEAD
       "imageUrl": "/images/Bazal.webp",
+=======
+      "imageUrl": "https://picsum.photos/seed/team6/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "site manager"
     },
     {
       "id": "team-member-7",
       "description": "Portrait of an HSE engineer.",
+<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
+=======
+      "imageUrl": "https://picsum.photos/seed/team7/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "HSE engineer"
     },
     {
       "id": "team-member-8",
       "description": "Portrait of a site supervisor.",
+<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
+=======
+      "imageUrl": "https://picsum.photos/seed/team8/200/200",
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "site supervisor"
     },
     {
       "id": "team-member-9",
       "description": "Portrait of an equipment operator.",
+<<<<<<< HEAD
       "imageUrl": "/images/Azhar.webp",
       "imageHint": "equipment operator"
     },
@@ -386,5 +435,46 @@
         "imageHint": "company logo"
       }
 ]
+=======
+      "imageUrl": "https://picsum.photos/seed/team9/200/200",
+      "imageHint": "equipment operator"
+    },
+    {
+      "id": "client-logo-1",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client1/150/75",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-2",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client2/150/75",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-3",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client3/150/75",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-4",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client4/150/75",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-5",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client5/150/75",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "client-logo-6",
+      "description": "Placeholder logo for a client.",
+      "imageUrl": "https://picsum.photos/seed/client6/150/75",
+      "imageHint": "company logo"
+    }
+>>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
   ]
 }
