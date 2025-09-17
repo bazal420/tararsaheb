@@ -4,175 +4,133 @@
     {
       "id": "hero-background",
       "description": "A wide shot of a newly paved asphalt road stretching into the distance under a clear sky.",
-<<<<<<< HEAD
       "imageUrl": "/images/Road.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/hero-bg/1920/1080",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "road construction"
     },
     {
       "id": "history-image",
       "description": "A group of diverse business people giving a thumbs up.",
-<<<<<<< HEAD
       "imageUrl": "/images/Team Success.jpg",
-=======
-      "imageUrl": "https://i.imgur.com/gtsyLhN.jpeg",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "team success"
     },
     {
       "id": "how-we-work-image",
       "description": "A team of engineers and construction workers collaborating on a blueprint at a construction site, symbolizing teamwork and precision.",
-<<<<<<< HEAD
       "imageUrl": "/images/Eng-Blueprint.jpg",
-=======
-      "imageUrl": "https://picsum.photos/seed/how-we-work/800/600",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "engineers blueprint"
     },
     {
       "id": "tagline-background",
       "description": "An abstract architectural design image symbolizing innovation.",
-<<<<<<< HEAD
       "imageUrl": "images/Architectural.jpeg",
-=======
-      "imageUrl": "https://picsum.photos/seed/tagline-bg/1920/400",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "architectural design"
     },
-    { "id": "project-1", "description": "Interlock reinstatement", "imageUrl": "https://picsum.photos/seed/proj1/600/400", "imageHint": "interlock paving" },
-    { "id": "project-1-2", "description": "Interlock reinstatement", "imageUrl": "https://picsum.photos/seed/proj1-2/600/400", "imageHint": "paving stones" },
-    { "id": "project-1-3", "description": "Interlock reinstatement", "imageUrl": "https://picsum.photos/seed/proj1-3/600/400", "imageHint": "walkway paving" },
-    { "id": "project-2", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj2/600/400", "imageHint": "utility work" },
-    { "id": "project-3", "description": "Gas connection in JVC", "imageUrl": "https://picsum.photos/seed/proj3/600/400", "imageHint": "construction site" },
-    { "id": "project-4", "description": "Asphalt works at farmhouse", "imageUrl": "https://picsum.photos/seed/proj4/600/400", "imageHint": "asphalt road" },
-    { "id": "project-5", "description": "Asphalt reinstatement", "imageUrl": "https://picsum.photos/seed/proj5/600/400", "imageHint": "road repair" },
-    { "id": "project-6", "description": "School carparking", "imageUrl": "https://picsum.photos/seed/proj6/600/400", "imageHint": "parking lot" },
-    { "id": "project-7", "description": "Interlock and landscaping", "imageUrl": "https://picsum.photos/seed/proj7/600/400", "imageHint": "landscape construction" },
-    { "id": "project-8", "description": "Road works construction", "imageUrl": "https://picsum.photos/seed/proj8/600/400", "imageHint": "road building" },
-    { "id": "project-9", "description": "Vehicle access circulation", "imageUrl": "https://picsum.photos/seed/proj9/600/400", "imageHint": "access road" },
-    { "id": "project-10", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj10/600/400", "imageHint": "paver installation" },
-    { "id": "project-11", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj11/600/400", "imageHint": "pavement work" },
-    { "id": "project-12", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj12/600/400", "imageHint": "gas pipeline" },
-    { "id": "project-13", "description": "11KV connection works", "imageUrl": "https://picsum.photos/seed/proj13/600/400", "imageHint": "electrical utility" },
-    { "id": "project-14", "description": "External road works", "imageUrl": "https://picsum.photos/seed/proj14/600/400", "imageHint": "road construction" },
-    { "id": "project-15", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj15/600/400", "imageHint": "urban construction" },
-    { "id": "project-16", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj16/600/400", "imageHint": "walkway paving" },
-    { "id": "project-17", "description": "Etisalat cable installation", "imageUrl": "https://picsum.photos/seed/proj17/600/400", "imageHint": "fiber optic" },
-    { "id": "project-18", "description": "Land leveling and paving", "imageUrl": "https://picsum.photos/seed/proj18/600/400", "imageHint": "land leveling" },
-    { "id": "project-19", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj19/600/400", "imageHint": "excavation work" },
-    { "id": "project-20", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj20/600/400", "imageHint": "construction trench" },
-    { "id": "project-21", "description": "Gas connection in villa community", "imageUrl": "https://picsum.photos/seed/proj21/600/400", "imageHint": "residential construction" },
-    { "id": "project-22", "description": "FIC tapping works", "imageUrl": "https://picsum.photos/seed/proj22/600/400", "imageHint": "pipe fitting" },
-    { "id": "project-23", "description": "Gas connection for luxury hotel", "imageUrl": "https://picsum.photos/seed/proj23/600/400", "imageHint": "hotel construction" },
-    { "id": "project-24", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj24/600/400", "imageHint": "sidewalk paving" },
-    { "id": "project-25", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj25/600/400", "imageHint": "stone pavers" },
-    { "id": "project-26", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj26/600/400", "imageHint": "utility installation" },
-    { "id": "project-27", "description": "Asphalt works for bank", "imageUrl": "https://picsum.photos/seed/proj27/600/400", "imageHint": "commercial paving" },
-    { "id": "project-28", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj28/600/400", "imageHint": "paver stones" },
-    { "id": "project-29", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj29/600/400", "imageHint": "building site" },
-    { "id": "project-30", "description": "FIC tapping works", "imageUrl": "https://picsum.photos/seed/proj30/600/400", "imageHint": "infrastructure work" },
-    { "id": "project-31", "description": "Vehicle access circulation", "imageUrl": "https://picsum.photos/seed/proj31/600/400", "imageHint": "road access" },
-    { "id": "project-32", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj32/600/400", "imageHint": "digging trench" },
-    { "id": "project-33", "description": "Interlock installation", "imageUrl": "https://picsum.photos/seed/proj33/600/400", "imageHint": "patio construction" },
-    { "id": "project-34", "description": "Gas connection civil works", "imageUrl": "https://picsum.photos/seed/proj34/600/400", "imageHint": "urban development" },
-    { "id": "project-35", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj35/600/400", "imageHint": "paving walkway" },
-    { "id": "project-36", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj36/600/400", "imageHint": "stone walkway" },
-    { "id": "project-37", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj37/600/400", "imageHint": "gardens paving" },
-    { "id": "project-38", "description": "External area interlock", "imageUrl": "https://picsum.photos/seed/proj38/600/400", "imageHint": "hotel exterior" },
-    { "id": "project-39", "description": "Interlock and curb pavers", "imageUrl": "https://picsum.photos/seed/proj39/600/400", "imageHint": "residential paving" },
-    { "id": "project-40", "description": "Asphalt removal and reinstatement", "imageUrl": "https://picsum.photos/seed/proj40/600/400", "imageHint": "road resurfacing" },
-    { "id": "project-ongoing-1", "description": "LPG connection works", "imageUrl": "https://picsum.photos/seed/ongoing1/600/400", "imageHint": "gas works" },
-    { "id": "project-ongoing-2", "description": "Pressure reducing station", "imageUrl": "https://picsum.photos/seed/ongoing2/600/400", "imageHint": "metering station" },
-    { "id": "project-ongoing-3", "description": "Asphalt repairing", "imageUrl": "https://picsum.photos/seed/ongoing3/600/400", "imageHint": "asphalt repair" },
-    { "id": "project-ongoing-4", "description": "LPG connection for townhouses", "imageUrl": "https://picsum.photos/seed/ongoing4/600/400", "imageHint": "townhouse construction" },
-    { "id": "project-ongoing-5", "description": "LPG connection works", "imageUrl": "https://picsum.photos/seed/ongoing5/600/400", "imageHint": "pipe construction" },
-    { "id": "project-ongoing-6", "description": "Entry and exit works", "imageUrl": "https://picsum.photos/seed/ongoing6/600/400", "imageHint": "building entrance" },
-    { "id": "project-ongoing-7", "description": "LPG connection works", "imageUrl": "https://picsum.photos/seed/ongoing7/600/400", "imageHint": "luxury apartment" },
-    { "id": "project-ongoing-8", "description": "FIC connection for townhouses", "imageUrl": "https://picsum.photos/seed/ongoing8/600/400", "imageHint": "suburban construction" },
-    { "id": "project-ongoing-9", "description": "External pavement works", "imageUrl": "https://picsum.photos/seed/ongoing9/600/400", "imageHint": "pavement construction" },
-    { "id": "project-ongoing-10", "description": "LPG connection works", "imageUrl": "https://picsum.photos/seed/ongoing10/600/400", "imageHint": "construction machinery" },
-    { "id": "project-ongoing-11", "description": "Building construction", "imageUrl": "https://picsum.photos/seed/ongoing11/600/400", "imageHint": "highrise construction" },
-    { "id": "project-ongoing-12", "description": "Access circulation works", "imageUrl": "https://picsum.photos/seed/ongoing12/600/400", "imageHint": "island development" },
-    { "id": "project-ongoing-13", "description": "LPG connection rerouting", "imageUrl": "https://picsum.photos/seed/ongoing13/600/400", "imageHint": "pipeline rerouting" },
-    { "id": "project-ongoing-14", "description": "Pedestrian walkway", "imageUrl": "https://picsum.photos/seed/ongoing14/600/400", "imageHint": "walkway construction" },
-    { "id": "project-ongoing-15", "description": "DEWA substation and street light works", "imageUrl": "https://picsum.photos/seed/ongoing15/600/400", "imageHint": "substation construction" },
-    { "id": "project-ongoing-16", "description": "FIC pipe connection",
-    { "id": "project-ongoing-17", "description": "FIC connection for residential building",
-    { "id": "project-ongoing-18", "description": "Access circulation for residential building",
-    { "id": "project-ongoing-19", "description": "FIC connections",
-    { "id": "project-ongoing-20", "description": "FIC connections",
-    { "id": "project-ongoing-21", "description": "Access circulation",
-    { "id": "project-ongoing-22", "description": "External pavement works",
-    { "id": "project-ongoing-23", "description": "FIC connection",
+    { "id": "project-1", "description": "Interlock reinstatement" },
+    { "id": "project-1-2", "description": "Interlock reinstatement" },
+    { "id": "project-1-3", "description": "Interlock reinstatement" },
+    { "id": "project-2", "description": "Gas connection civil works" },
+    { "id": "project-3", "description": "Gas connection in JVC" },
+    { "id": "project-4", "description": "Asphalt works at farmhouse" },
+    { "id": "project-5", "description": "Asphalt reinstatement" },
+    { "id": "project-6", "description": "School carparking" },
+    { "id": "project-7", "description": "Interlock and landscaping" },
+    { "id": "project-8", "description": "Road works construction" },
+    { "id": "project-9", "description": "Vehicle access circulation" },
+    { "id": "project-10", "description": "Interlock and curb pavers" },
+    { "id": "project-11", "description": "Interlock and curb pavers" },
+    { "id": "project-12", "description": "Gas connection civil works" },
+    { "id": "project-13", "description": "11KV connection works" },
+    { "id": "project-14", "description": "External road works" },
+    { "id": "project-15", "description": "Gas connection civil works" },
+    { "id": "project-16", "description": "Interlock and curb pavers" },
+    { "id": "project-17", "description": "Etisalat cable installation" },
+    { "id": "project-18", "description": "Land leveling and paving" },
+    { "id": "project-19", "description": "Gas connection civil works" },
+    { "id": "project-20", "description": "Gas connection civil works" },
+    { "id": "project-21", "description": "Gas connection in villa community" },
+    { "id": "project-22", "description": "FIC tapping works" },
+    { "id": "project-23", "description": "Gas connection for luxury hotel" },
+    { "id": "project-24", "description": "Interlock and curb pavers" },
+    { "id": "project-25", "description": "Interlock and curb pavers" },
+    { "id": "project-26", "description": "Gas connection civil works" },
+    { "id": "project-27", "description": "Asphalt works for bank" },
+    { "id": "project-28", "description": "Interlock and curb pavers" },
+    { "id": "project-29", "description": "Gas connection civil works" },
+    { "id": "project-30", "description": "FIC tapping works" },
+    { "id": "project-31", "description": "Vehicle access circulation" },
+    { "id": "project-32", "description": "Gas connection civil works" },
+    { "id": "project-33", "description": "Interlock installation" },
+    { "id": "project-34", "description": "Gas connection civil works" },
+    { "id": "project-35", "description": "Interlock and curb pavers" },
+    { "id": "project-36", "description": "Interlock and curb pavers" },
+    { "id": "project-37", "description": "Interlock and curb pavers" },
+    { "id": "project-38", "description": "External area interlock" },
+    { "id": "project-39", "description": "Interlock and curb pavers" },
+    { "id": "project-40", "description": "Asphalt removal and reinstatement" },
+    { "id": "project-ongoing-1", "description": "LPG connection works" },
+    { "id": "project-ongoing-2", "description": "Pressure reducing station" },
+    { "id": "project-ongoing-3", "description": "Asphalt repairing" },
+    { "id": "project-ongoing-4", "description": "LPG connection for townhouses" },
+    { "id": "project-ongoing-5", "description": "LPG connection works" },
+    { "id": "project-ongoing-6", "description": "Entry and exit works" },
+    { "id": "project-ongoing-7", "description": "LPG connection works" },
+    { "id": "project-ongoing-8", "description": "FIC connection for townhouses" },
+    { "id": "project-ongoing-9", "description": "External pavement works" },
+    { "id": "project-ongoing-10", "description": "LPG connection works" },
+    { "id": "project-ongoing-11", "description": "Building construction" },
+    { "id": "project-ongoing-12", "description": "Access circulation works" },
+    { "id": "project-ongoing-13", "description": "LPG connection rerouting" },
+    { "id": "project-ongoing-14", "description": "Pedestrian walkway" },
+    { "id": "project-ongoing-15", "description": "DEWA substation and street light works" },
+    { "id": "project-ongoing-16", "description": "FIC pipe connection" },
+    { "id": "project-ongoing-17", "description": "FIC connection for residential building" },
+    { "id": "project-ongoing-18", "description": "Access circulation for residential building" },
+    { "id": "project-ongoing-19", "description": "FIC connections" },
+    { "id": "project-ongoing-20", "description": "FIC connections" },
+    { "id": "project-ongoing-21", "description": "Access circulation" },
+    { "id": "project-ongoing-22", "description": "External pavement works" },
+    { "id": "project-ongoing-23", "description": "FIC connection" }
     {
+
       "id": "team-member-1",
       "description": "Portrait of a smiling male construction manager with a hard hat.",
-<<<<<<< HEAD
       "imageUrl": "/images/Zia Ullah.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/team1/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-2",
       "description": "Portrait of a confident professional.",
       "imageUrl": "/images/Zumran.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/team2/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "professional portrait"
     },
     {
       "id": "team-member-3",
       "description": "Portrait of an experienced project lead.",
-<<<<<<< HEAD
       "imageUrl": "/images/Mirza.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/team3/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-4",
       "description": "Portrait of a project engineer.",
-<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
-=======
-      "imageUrl": "https://picsum.photos/seed/team4/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "male portrait"
     },
     {
       "id": "team-member-5",
       "description": "Portrait of a female engineer.",
-<<<<<<< HEAD
       "imageUrl": "/images/Cathy-Alarcon.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/team5/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "female engineer"
     },
     {
       "id": "team-member-6",
       "description": "Portrait of a site manager.",
-<<<<<<< HEAD
       "imageUrl": "/images/Bazal.webp",
-=======
-      "imageUrl": "https://picsum.photos/seed/team6/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "site manager"
     },
     {
       "id": "team-member-7",
       "description": "Portrait of an HSE engineer.",
-<<<<<<< HEAD
       "imageUrl": "/images/male icon.png",
-=======
-      "imageUrl": "https://picsum.photos/seed/team7/200/200",
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
       "imageHint": "HSE engineer"
     },
     {
@@ -184,7 +142,6 @@
     {
       "id": "team-member-9",
       "description": "Portrait of an equipment operator.",
-<<<<<<< HEAD
       "imageUrl": "/images/Azhar.webp",
       "imageHint": "equipment operator"
     },
@@ -429,47 +386,7 @@
         "imageUrl": "/images/Client(40).jpg",
         "imageHint": "company logo"
       }
-]
-=======
-      "imageUrl": "https://picsum.photos/seed/team9/200/200",
-      "imageHint": "equipment operator"
-    },
-    {
-      "id": "client-logo-1",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client1/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-2",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client2/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-3",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client3/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-4",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client4/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-5",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client5/150/75",
-      "imageHint": "company logo"
-    },
-    {
-      "id": "client-logo-6",
-      "description": "Placeholder logo for a client.",
-      "imageUrl": "https://picsum.photos/seed/client6/150/75",
-      "imageHint": "company logo"
-    }
->>>>>>> e5a6ed1761d8ae0e8e7e4dfb38b6c48eb74212f2
+      
+    ]
   ]
 }
